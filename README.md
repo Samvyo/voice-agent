@@ -8,8 +8,8 @@ The Voice Agent Platform is a full-stack solution for building, deploying, and m
 
 
 ## Demo Video 
-Long Video: https://www.loom.com/share/fa184e68c3d34c6b9fa11dd164f5c867
-Short Video: https://www.loom.com/share/7d635575a4784ecc8e91d4f91d05f1ac
+[Long Video](https://www.loom.com/share/fa184e68c3d34c6b9fa11dd164f5c867)  
+[Short Video](https://www.loom.com/share/7d635575a4784ecc8e91d4f91d05f1ac)
 
 ### Key Features
 
@@ -129,4 +129,3 @@ Businesses face escalating customer support costs ($50-100K annually), long resp
 - **Developer Tools**: Provide API documentation, troubleshooting, and integration support with voice-enabled assistance
 
 ---
-
