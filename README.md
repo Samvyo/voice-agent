@@ -6,6 +6,11 @@ An intelligent AI voice agent platform that provides context-aware customer supp
 
 The Voice Agent Platform is a full-stack solution for building, deploying, and managing AI-powered voice agents. It enables businesses to provide 24/7 customer support through intelligent agents that understand context, learn from interactions, and seamlessly escalate to human agents when needed.
 
+
+## Demo Video 
+Long Video: https://www.loom.com/share/fa184e68c3d34c6b9fa11dd164f5c867
+Short Video: https://www.loom.com/share/7d635575a4784ecc8e91d4f91d05f1ac
+
 ### Key Features
 
 - **Intelligent AI Agents**: Context-aware agents powered by OpenAI that understand your business through document ingestion and vector search
@@ -107,11 +112,11 @@ Businesses face escalating customer support costs ($50-100K annually), long resp
 - Agent can share screen to walk through policy documents, coverage comparisons, and premium calculations
 - Result: Higher conversion rates through personalized video consultations for high-value insurance purchases
 
-**Policy Bazaar - Virtual Showroom Tours**
+**Policy Bazaar - plans presentation**
 - Customers explore multiple insurance providers and compare plans
 - AI agent handles initial queries about different insurance categories (health, life, motor, etc.)
 - When customer shows interest in specific plans, system identifies as high-ticket opportunity
-- Human agent connects via video call to provide virtual showroom tours
+- Human agent connects via video call to provide virtual plan presentation
 - Agent can showcase different policy options, explain fine print, and demonstrate online tools
 - Video interaction enables face-to-face trust building and real-time document sharing
 - Result: Enhanced customer experience with personalized virtual consultations leading to informed purchase decisions
